@@ -1,6 +1,6 @@
 {
   "name": "@theinternetfolks/excel-formula",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library to help you parse Excel Formulas to various formats, including JS.",
   "main": "src/index.js",
   "scripts": {},
