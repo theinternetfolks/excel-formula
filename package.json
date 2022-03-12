@@ -1,14 +1,15 @@
 {
   "name": "@theinternetfolks/excel-formula",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library to help you parse Excel Formulas to various formats, including JS.",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {},
   "author": "Sameer Khan <sameer.khan@theinternetfolks.com>",
   "organization": "The Internet Folks",
   "repository": "https://github.com/theinternetfolks/excel-formula",
   "files": [
-    "src/",
+    "index.js",
+    "index.d.ts",
     "LICENSE",
     "package.json",
     "README.md"

@@ -93,7 +93,7 @@ function F_tokenStack() {
   };
 }
 
-export class ExcelFormula {
+class ExcelFormula {
   static excelFormulaUtilities = {
     isEu: false,
   };
@@ -1447,3 +1447,5 @@ export class ExcelFormula {
     return cSharpOutput.replace("==", "===");
   }
 }
+
+module.exports = { ExcelFormula };
